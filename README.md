@@ -59,19 +59,23 @@ RESULTS
 Decision Tree Classifier results: 
 
 Score:
-
+ 0.72
 Accuracy:
-
+42.85714
 Random Forest Classifier results:
 
 Score:
-
-
+0.8(for training set)
+0.571428(for testing dataset)
 Accuracy:
-
+57.142857
 User input:
-
+adventure
+spring 
+couple
 
 Output based on Decision Tree Classification:
-
+jaipur
+Output based on Random Forest Classification:
+jaipur
 
